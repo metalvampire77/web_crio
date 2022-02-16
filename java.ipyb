@@ -1,0 +1,27 @@
+{
+    "nbformat": 4,
+    "nbformat_minor": 0,
+    "metadata": {
+    "colab": {
+    "name": "java.ipynb",
+    "provenance": []
+},
+    "kernelspec": {
+    "name": "java",
+    "display_name":"java"
+    }
+},
+"cells": [
+  {
+    "cell_type": "code",
+    "metadata": {
+    "id": "uiox7VJbA9us"
+    },
+    "source": [
+      ""
+    ],
+    "execution_count": None,
+    "outputs": []
+  }
+]
+}
